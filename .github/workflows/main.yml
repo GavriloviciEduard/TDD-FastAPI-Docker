@@ -92,7 +92,7 @@ test:
     runs-on: ubuntu-latest
     needs: [build, test]
     env:
-      HEROKU_APP_NAME: thawing-beach-87010
+      HEROKU_APP_NAME: pacific-woodland-68107
       HEROKU_REGISTRY_IMAGE: registry.heroku.com/${HEROKU_APP_NAME}/summarizer
     steps:
       - name: Checkout master
