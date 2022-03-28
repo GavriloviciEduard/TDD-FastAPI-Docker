@@ -1,4 +1,4 @@
 # Test Driven Development with FastAPI and Docker
 ![Continuous Integration and Delivery](https://github.com/GavriloviciEduard/fastapi-tdd-docker/workflows/Continuous%20Integration%20and%20Delivery/badge.svg?branch=master)
 
-Based on ![testdriven.io course](https://testdriven.io/courses/tdd-fastapi/).
+Based on [testdriven.io course](https://testdriven.io/courses/tdd-fastapi/).
